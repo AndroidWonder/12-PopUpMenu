@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/first"
+        android:title="Restaurants Guide" />
+
+
+    <item
+        android:id="@+id/second"
+        android:title="Sightseeing Guide" />
+
+    <item
+        android:id="@+id/third"
+        android:title="Rental Guide" />
+
+    <item
+        android:id="@+id/fourth"
+        android:title="Transport Guide" />
+
+    <item
+        android:id="@+id/fifth"
+        android:title="Library Resource Guide" />
+
+</menu>
